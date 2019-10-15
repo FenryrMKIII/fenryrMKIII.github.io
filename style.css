@@ -6,7 +6,8 @@
 body {
     display:grid;
     height:800px;
-    grid-template-columns: 1fr 1fr;
+    width:600px;
+    grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     font-family: 'Noto Sans', sans-serif;
     background-color: #97b416;
