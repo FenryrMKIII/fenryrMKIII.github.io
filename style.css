@@ -3,6 +3,10 @@
     padding: 0;
   }
 
+em  {
+    color: #e6e92d;
+}
+
 body {
     display:grid;
     height:800px;
