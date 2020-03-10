@@ -1,4 +1,10 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
+  - title: Accueil
+    url: /
+  - title: Principes d'entrainement
+    subnav:
+      - title: Programmation
+        url: programming.html
+  - title: Journal d'entrainement
+    url: trainingJournal.html
+  - title: Nutrition
+    url: nutrition.html

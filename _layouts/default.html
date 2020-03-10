@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-	<link rel="stylesheet" href="{{'/assets/css/styles.css' | absolute_url}}">
+	<link rel="stylesheet" href="{{'/assets/css/styles.css'}}">
 
   </head>
   <body>
-	{% include navigation.html %}
+	{% include navigation.html nav=site.data.navigation %}
 	{{ content }}
   </body>
 </html>
