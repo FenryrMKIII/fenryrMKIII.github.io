@@ -44,7 +44,8 @@
 		</a>
 	  </div>
 	</div>
-	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
+  {% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
+  <div style='padding-top: 1px'></div>  <!-- Add this -->
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
 	    <a href="{{ '' | absolute_url }}">
