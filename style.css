@@ -1,9 +1,0 @@
-nav{
-    display:flex;
-}
-
-#MainLogo {
-    content:url(http://www.fabrikgraphik.com/wp-content/uploads/2015/07/Apple_black.jpg);
-    justify-content: right;
-    flex : auto;
- }​
