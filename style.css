@@ -1,27 +1,9 @@
-* {
-    margin: 0;
-    padding: 0;
-  }
-
-em  {
-    color: #e6e92d;
+nav{
+    display:flex;
 }
 
-body {
-    display:grid;
-    height:800px;
-    width:600px;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
-    font-family: 'Noto Sans', sans-serif;
-    background-color: #97b416;
-}
-
-.welcome {
-    grid-area:1/2/1/2;
-    background-color: #164eb4;
-
-}
-
-
-
+#MainLogo {
+    content:url(http://www.fabrikgraphik.com/wp-content/uploads/2015/07/Apple_black.jpg);
+    justify-content: right;
+    flex : auto;
+ }​
