@@ -1,6 +1,6 @@
 ---
-stravaid1: 3712978722
-stravaid2: 09f554fbaa582686cd2dd76acc154499fd9dd93f
+stravaid1: 3725696550
+stravaid2: 9e64880020c6f4b8f9dc51ef23d171489659de79
 layout:post
 title:  "[PhoenixProject] Base run"
 
