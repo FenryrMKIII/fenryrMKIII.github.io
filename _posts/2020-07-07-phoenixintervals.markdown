@@ -1,7 +1,7 @@
 ---
 stravaid1: 3725696550
 stravaid2: 9e64880020c6f4b8f9dc51ef23d171489659de79
-title:  "[PhoenixProject] Base run"
+title:  "[PhoenixProject] Intervals"
 
 ---
 
