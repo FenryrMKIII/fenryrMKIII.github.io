@@ -3,7 +3,7 @@ layout: post
 title:  "[PhoenixProject] Let's start !"
 ---
 
-![PhoenixProject_Launch](/assets/PhoenixProject_Launch.png)
+![PhoenixProject_Launch](/assets/img/PhoenixProject_Launch.png)
 
 Démarrage du projet Phoenix!
 
